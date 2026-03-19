@@ -1,3 +1,0 @@
-Hola, este es mi primer archivo del proyecto.
-Estado: En desarrollo.
-Versión: 1.0
